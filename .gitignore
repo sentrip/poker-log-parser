@@ -1,4 +1,5 @@
 /target
+**/__pycache__
 print_type_sizes.bat
 /data/PokerStars
 /data/pluribus
