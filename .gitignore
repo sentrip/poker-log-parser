@@ -1,0 +1,9 @@
+/target
+print_type_sizes.bat
+/data/PokerStars
+/data/pluribus
+/src/nom_parser.rs
+/src/py/build
+/src/py/dist
+/src/py/pklp.egg-info
+/src/py/venv
